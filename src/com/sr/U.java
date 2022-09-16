@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class Util {
+public class U {
     public static List<Integer> makeList(int... a) {
         List<Integer> res = new ArrayList<>();
         for (int i : a) {
